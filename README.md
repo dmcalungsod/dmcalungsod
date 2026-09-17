@@ -1,8 +1,8 @@
-# Hi there! I'm D. Calungsod 👋
+# Hi, I'm Diffon M. Calungsod 👋
 
 <p align="left">
   <a href="https://github.com/dmcalungsod">
-    <img src="https://readme-typing-svg.demolab.com?font=Outfit&size=22&pause=1000&color=0e75b6&width=435&lines=Pragmatic+Developer;Desktop+GUI+Development;Building+tools+that+work" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Outfit&size=22&pause=1000&color=0e75b6&width=500&lines=Environmental+Scientist+%7C+MSc;Research+%26+Science+Policy;Building+Tools+that+serve+Science" alt="Typing SVG" />
   </a>
 </p>
 
@@ -10,90 +10,44 @@
   <img src="https://komarev.com/ghpvc/?username=dmcalungsod&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-I am a self-taught **Pragmatic Developer** who builds tools that work. I specialize in turning ideas into deployable software—from desktop apps like my **LitNexus** to automation scripts that solve real-world problems.
+I am an **Environmental Scientist (MSc)** currently working at the **University of the Philippines Diliman** — College of Science, where I develop internal tools and platforms to support research assessment, technology readiness evaluation, and institutional reporting. My research interests span **environmental monitoring, mangrove ecology, and forest condition assessment**, with hands-on experience in **spatial data analysis and GIS mapping using QGIS**. My programming practice is self-driven: trained formally in environmental science, I build the software my work demands — from desktop GUI applications to automation scripts that replace manual workflows.
 
 ---
 
-### 🚀 Featured Projects
+### 🎓 Background
 
-#### 📚 [LitNexus](https://github.com/dmcalungsod/LitNexus)
->
-> **Modern Desktop App** for discovering and downloading open-access academic PDFs using DOIs. Features a sleek GUI, multi-source metadata retrieval, literature snowballing, and citation support.
-
-* **Tech Stack:** Go, Wails v2, React, TypeScript, Tailwind CSS
-* **Key Features:** Cross-platform single executable, modern web UI, robust data pipelines.
-
-#### 🎓 [Certificate-Rename](https://github.com/dmcalungsod/Certificate-Rename)
->
-> **Automation** tool that uses **OCR** to read scanned certificates and automatically rename them based on the recipient's name ("Smart Detection").
-
-* **Tech Stack:** PyTorch, EasyOCR, OpenCV
-
-#### 🛡️ [File-Integrity-Checker](https://github.com/dmcalungsod/File-Integrity-Checker)
->
-> **Security Utility** for verifying file authenticity. Supports multiple hash algorithms (MD5, SHA256) with both CLI and interactive modes. Features hash file parsing and code signing support.
-
-* **Tech Stack:** Python, PySide6, Hashlib, CLI
-
-#### 🤖 [Thalrax Security Bot Suite](https://github.com/dmcalungsod/Docs)
->
-> **Discord Security Ecosystem** offering robust community moderation, threat-intel integrations (Google Safe Browsing, URLhaus), and security automations.
-
-* **Tech Stack:** Python, MongoDB, Discord.py
-
-*(Coming Soon: More smart automation workflows!)*
+- **MSc in Environmental Science** — University of San Carlos *(DOST-SEI ASTHRDP Scholar)*
+- **BSc in Environmental Management** — Visayas State University
+- **Current Role:** Junior Technology/Development Management Assistant — UP Diliman, College of Science
+- **ORCID:** [0009-0007-5571-7956](https://orcid.org/0009-0007-5571-7956)
 
 ---
 
-### 🌱 Current Interests
+### 🏅 Certifications
 
-* **Desktop GUI Development**: Building deployable executables (`.exe`) with modern, cross-platform interfaces (Wails, React, PySide6) that enhance user experience.
-* **Smart Automation**: Scripting efficient workflows, such as parsing and renaming files using **OCR tools** and Python.
-* **Digital Utilities**: Creating robust tools for file integrity, security verification, and data management.
-* **Exploring Machine Learning**: Applying ML libraries (like PyTorch) to practical automation tasks.
-* **Community Tooling**: Developing **Discord bots** for server security, automated moderation, and user engagement.
-
----
-
-### 🛠️ Tech Stack & Tooling
-
-**Languages**
 <p align="left">
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <a href="https://www.credly.com/badges/ed061f3d-36b4-42c6-9fe7-548cf3a60ea6" target="_blank">
+    <img src="https://images.credly.com/images/d41de2b7-cbc2-47ec-bcf1-ebecbe83872f/GCC_badge_DA_1000x1000.png" alt="Google Data Analytics Professional Certificate" height="100" />
+  </a>
+  <a href="https://www.credly.com/badges/1ed09dbf-ec4a-4fcd-aef7-c624a64002ea" target="_blank">
+    <img src="https://images.credly.com/images/ea3eec65-ddad-4242-9c59-1defac0fa2d9/image.png" alt="Google AI Essentials" height="100" />
+  </a>
+  <a href="https://www.credly.com/badges/745bf519-d6c9-42a8-a23c-f781e54ce09b" target="_blank">
+    <img src="https://images.credly.com/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" alt="Introduction to Cybersecurity — Cisco" height="100" />
+  </a>
+</p>
+
+---
+
+### 🛠️ Tools & Technologies
+
+<p align="left">
+  <img src="https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white" alt="QGIS" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
-</p>
-
-**Web & Desktop GUI**
-<p align="left">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/Wails-E00000?style=for-the-badge&logo=wails&logoColor=white" alt="Wails" />
-  <img src="https://img.shields.io/badge/PySide6-41CD52?style=for-the-badge&logo=qt&logoColor=white" alt="PySide6" />
-</p>
-
-**AI & Data Science**
-<p align="left">
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
   <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib" />
-  <img src="https://img.shields.io/badge/Seaborn-4C4C4C?style=for-the-badge&logo=python&logoColor=white" alt="Seaborn" />
-</p>
-
-**Utilities & Automation**
-<p align="left">
-  <img src="https://img.shields.io/badge/Rich_CLI-2B2B2B?style=for-the-badge&logo=terminal&logoColor=white" alt="Rich CLI" />
-  <img src="https://img.shields.io/badge/Discord.py-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord.py" />
-</p>
-
-<p align="left">
-  <!-- Tools & Databases -->
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
 </p>
 
 ---
