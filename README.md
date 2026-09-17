@@ -25,17 +25,7 @@ I am an **Environmental Scientist (MSc)** currently working at the **University 
 
 ### 🏅 Certifications
 
-<p align="left">
-  <a href="https://www.credly.com/badges/ed061f3d-36b4-42c6-9fe7-548cf3a60ea6" target="_blank">
-    <img src="https://images.credly.com/images/d41de2b7-cbc2-47ec-bcf1-ebecbe83872f/GCC_badge_DA_1000x1000.png" alt="Google Data Analytics Professional Certificate" height="100" />
-  </a>
-  <a href="https://www.credly.com/badges/1ed09dbf-ec4a-4fcd-aef7-c624a64002ea" target="_blank">
-    <img src="https://images.credly.com/images/ea3eec65-ddad-4242-9c59-1defac0fa2d9/image.png" alt="Google AI Essentials" height="100" />
-  </a>
-  <a href="https://www.credly.com/badges/745bf519-d6c9-42a8-a23c-f781e54ce09b" target="_blank">
-    <img src="https://images.credly.com/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" alt="Introduction to Cybersecurity — Cisco" height="100" />
-  </a>
-</p>
+[![Google Data Analytics Professional Certificate](https://images.credly.com/images/d41de2b7-cbc2-47ec-bcf1-ebecbe83872f/GCC_badge_DA_1000x1000.png)](https://www.credly.com/badges/ed061f3d-36b4-42c6-9fe7-548cf3a60ea6)&nbsp;[![Google AI Essentials](https://images.credly.com/images/ea3eec65-ddad-4242-9c59-1defac0fa2d9/image.png)](https://www.credly.com/badges/1ed09dbf-ec4a-4fcd-aef7-c624a64002ea)&nbsp;[![Introduction to Cybersecurity — Cisco](https://images.credly.com/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png)](https://www.credly.com/badges/745bf519-d6c9-42a8-a23c-f781e54ce09b)
 
 ---
 
