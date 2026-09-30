@@ -28,7 +28,7 @@ Seeking a host institution under the **DOST-SEI Career Incentive Program (CIP)**
 
 ### 🎓 Background
 
-- **MSc in Environmental Science** — University of San Carlos
+- **[MSc in Environmental Science](https://www.facebook.com/photo.php?fbid=898620993283880&set=a.106897189122935&type=3)** — University of San Carlos
 - **BSc in Environmental Management** — Visayas State University
 - **ORCID:** [0009-0007-5571-7956](https://orcid.org/0009-0007-5571-7956)
 
