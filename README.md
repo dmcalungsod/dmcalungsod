@@ -7,7 +7,6 @@
 </p>
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=dmcalungsod&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
   <a href="mailto:dmcalungsod.empro@passinbox.com">
     <img src="https://img.shields.io/badge/Email-Contact_Me-0e75b6?style=flat&logo=gmail&logoColor=white" alt="Email" />
   </a>
