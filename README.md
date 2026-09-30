@@ -8,9 +8,22 @@
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=dmcalungsod&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <a href="mailto:dmcalungsod.empro@passinbox.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-0e75b6?style=flat&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </p>
 
 I am an **aspiring Environmental Scientist**, currently working at the **University of the Philippines Diliman** — College of Science, where I help develop internal tools and platforms to support research assessment, technology readiness evaluation, and institutional reporting. As an early-career researcher focused on continuous learning, my interests lie in **environmental monitoring, mangrove ecology, and forest condition assessment**, and I'm actively building hands-on experience in **spatial data analysis and GIS mapping using QGIS**. My programming practice is self-driven: trained formally in environmental science, I teach myself to build the software my work demands — from desktop GUI applications to automation scripts that replace manual workflows.
+
+---
+
+### 📬 Career Objective
+
+Seeking a host institution under the **DOST-SEI Career Incentive Program (CIP)** to contribute technical expertise and research support to initiatives integrating environmental science and computational skills, particularly in:
+- **Environmental Monitoring & Ecological Assessment**
+- **Spatial Data Analysis & GIS Mapping** (QGIS)
+- **Scientific Workflow Automation** (Python)
+- **Development of Internal Research Tools & Platforms**
 
 ---
 
